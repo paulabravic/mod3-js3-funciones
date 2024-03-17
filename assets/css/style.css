@@ -71,6 +71,10 @@ nav a {
 }
 
 
+#ele1 {
+    background-color: green;
+}
+
 .main-colores {
     display: flex;
     align-items: center;
@@ -79,26 +83,3 @@ nav a {
     margin-top: 10px;
 }
 
-#div01 {
-    width: 200px;
-    height: 200px;
-    background-color: blue;
-}
-
-#div02 {
-    width: 200px;
-    height: 200px;
-    background-color: red;
-}
-
-#div03 {
-    width: 200px;
-    height: 200px;
-    background-color: green;
-}
-
-#div04 {
-    width: 200px;
-    height: 200px;
-    background-color: yellow;
-}
